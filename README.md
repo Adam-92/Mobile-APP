@@ -1,3 +1,21 @@
 # Mobile-APP
 Mobile shop application in reactJS
-![image](https://user-images.githubusercontent.com/45037539/148637140-7c06ad92-dd93-47ee-95f3-48333b29fd4f.png)
+Add, remove, count up your items in the cart.
+
+
+![1](https://user-images.githubusercontent.com/45037539/148639126-f96a7658-7196-47ff-827f-5689176dff7d.jpg)
+
+# Live view
+
+https://mobile-application-reactjs.netlify.app/
+
+
+# Install && Start
+
+npm install
+
+npm start
+
+
+
+
